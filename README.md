@@ -1,5 +1,6 @@
-![landingPage](landing.png)
-![image](form.png)
+![landingPage](./src/assets/landing.png)
+![image](./src/assets/form.png)
+![image](./src/assets/save.png)
 </br>
 </br>
 
@@ -8,7 +9,7 @@ Aplicação front-end web para registro de transações financeiras pessoais
 </br></br>
 
 **Status** </br>
-Em desenvolvimento 
+Finalizada 
 </br>
 </br>
 
