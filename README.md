@@ -1,5 +1,5 @@
 <h1 align="center">myWallet</h1>
-<p align="center">Aplicação front-end para registro de transações finaceiras, com cálculo do total de saídas, entradas e balanço financeiro.</p>
+<p align="center">Aplicação front-end para registro de transações financeiras, com cálculo do total de saídas, entradas e balanço financeiro.</p>
 
 <p align="center">:coffee:</p>
 
