@@ -22,7 +22,7 @@ export function TransactionsTable() {
               <td>{transaction.title}</td>
 
               <td className={transaction.type}>
-                {transaction.type === 'withdraw' ? '- ' : ''}
+                {transaction.type === 'withdraw' && '- '}
                 {new Intl.NumberFormat('pt-BR', {
                   style: 'currency',
                   currency: 'BRL'
